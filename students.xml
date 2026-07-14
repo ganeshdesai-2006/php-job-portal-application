@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+<student>
+<name>Ganesh Desai</name>
+<rollno>101</rollno>
+<department>CSE</department>
+<year>3</year>
+</student>
+
+<student>
+<name>Sharon Kumar</name>
+<rollno>102</rollno>
+<department>ECE</department>
+<year>3</year>
+</student>
+
+<student>
+<name>Kishore</name>
+<rollno>103</rollno>
+<department>EEE</department>
+<year>3</year>
+</student>
+
+<student>
+<name>Naveen</name>
+<rollno>104</rollno>
+<department>ISE</department>
+<year>3</year>
+</student>
+
+<student>
+<name>Hrashith</name>
+<rollno>105</rollno>
+<department>IST</department>
+<year>3</year>
+</student>
+</students>
+
+
